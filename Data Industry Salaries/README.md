@@ -4,7 +4,7 @@ In this analysis I made of a Kaggle survey dataset, there is a breakdown of the 
 
 ### General Dashboard
 
-![image](https://github.com/HansselMorales/ProjectsPortfolio/assets/122589585/859a2089-2593-4ed5-a172-c4872715e586)
+![image](https://github.com/chinmay0524/My-Projects/blob/main/Data%20Industry%20Salaries/General%20Dashboard.png)
 
 
 #### Data Science Reigns Supreme:
@@ -28,7 +28,7 @@ The average data professional salary witnessed a significant jump, increasing fr
 ### Data Scientist Dashboard
 Given it is the most profitable sector, Data Science deserves its own individual dashboard!
 
-![image](https://github.com/HansselMorales/ProjectsPortfolio/assets/122589585/7bec9676-7eca-4380-ab78-e31f2a97960c)
+![image](https://github.com/chinmay0524/My-Projects/blob/main/Data%20Industry%20Salaries/Screenshot%202024-12-18%20121317.png)
 
 
 
